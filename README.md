@@ -1,4 +1,3 @@
 # Resume_Scoring_using_NLP
 
-The objective of our study is to carry out a statistical processing of resumes, to optimize the recruitment process, using automatic learning techniques. In other words,
-our work aims at automating the task of selecting the best candidates. First of all, we are interested in extracting the raw text from the resumes. Thus, the latter must go through a pre-processing. Then, we create unigrams/bigrams. Secondly, we perform TF-IDF scoring of the unigrams/bigrams created in each CV, and then calculate the TF-IDF score in the database. Finally, we obtain the most qualified CVs for a given skill.
+The objective of our study is to optimize the recruitment process, using Natural Language Processing. In other words, our work aims at optimizing the task of selecting the best candidates. First of all, we extracted the raw text from the resumes pre-processed it. Then, we calculated the TF-IDF score for each unigram and bigram in the database and sorted each resume by their scores for a required skill, in order to obtain the most qualified CVs for that skill.
